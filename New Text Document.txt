@@ -1,0 +1,6 @@
+git init
+git add .
+git status
+get location of folder location in which files to be added 
+git commit -m "first commit.myfiles is added"
+git push origin master
